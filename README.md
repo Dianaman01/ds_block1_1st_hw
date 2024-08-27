@@ -37,4 +37,11 @@
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
 
+### Ссылки на файлы:
+[1. game.ipynb](https://github.com/Dianaman01/ds_block1_1st_hw/blob/c8d1cbc32aef243e236d5eef8b1504733142bf43/project_0/game.ipynb)
+[1. game.py](https://github.com/Dianaman01/ds_block1_1st_hw/blob/c8d1cbc32aef243e236d5eef8b1504733142bf43/project_0/game.py)
+[1. game_v2.py](https://github.com/Dianaman01/ds_block1_1st_hw/blob/c8d1cbc32aef243e236d5eef8b1504733142bf43/project_0/game_v2.py)
+[1. requirements.txt](https://github.com/Dianaman01/ds_block1_1st_hw/blob/c8d1cbc32aef243e236d5eef8b1504733142bf43/project_0/requirements.txt)
+[1. environment.yaml](https://github.com/Dianaman01/ds_block1_1st_hw/blob/c8d1cbc32aef243e236d5eef8b1504733142bf43/project_0/environment.yaml)
+
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
